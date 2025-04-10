@@ -1,10 +1,12 @@
 This is a complete implementation of a colorful, user-friendly calculator app using HTML, CSS, and JavaScript.
+
 HTML Structure:
 A container with brand label "DenCax Calculator".
 Large display input at the top5x4 grid of buttons.
 CSS Styling:
 Colorful gradient backgroundRounded corners and shadows for modern lookDistinct colors for different button types:Numbers: Turquoise (#4ecdc4)Operators: Coral (#ff6b6b)Clear: Blue (#45b7d1)Equals: Green (#96c93d)
 Hover and click animationsResponsive design.
+
 JavaScript Functionality:
 Basic arithmetic operations (+, -, *, /)
 Clear function (C button)
@@ -12,6 +14,7 @@ Parentheses support.
 Decimal point support.
 Keyboard input support.
 Error handling for invalid expressions.
+
 Features:
 Intuitive button layout, Real-time display updates, Click and keyboard support, Visual feedback on button interactions.
 To use this calculator:
